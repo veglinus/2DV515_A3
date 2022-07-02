@@ -1,4 +1,4 @@
-# 2DV515 Assignment 2 Server
+# 2DV515 Assignment 3 Server
 
 Build the frontend with:
 ```
